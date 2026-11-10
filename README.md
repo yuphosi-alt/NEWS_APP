@@ -42,6 +42,8 @@
 - [ROADMAP.md](ROADMAP.md)：段階的な進め方
 - [DECISIONS.md](DECISIONS.md)：決定事項と未決事項
 - [VALIDATION.md](VALIDATION.md)：1週間試作の検証計画
+- [SOURCE_REGISTER.md](SOURCE_REGISTER.md)：情報源候補と利用条件の初期確認
+- [PILOT_LOG_TEMPLATE.md](PILOT_LOG_TEMPLATE.md)：14便分の作業記録・品質評価・費用集計テンプレート
 
 ## 現在の状態
 
